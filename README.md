@@ -49,7 +49,7 @@ Segue a lista abaixo dos tópicos que foram aprendidos:
 ## Uso/Exemplos
 
 Para utilizar abrir o arquivo "index.html", em seu navegador.
-* OBS: Caso o "background" fique branco no chrome tente em outros navegadores, não entende o a causa do problema ainda, mas estou procurando, "possivel atualização"
+* OBS: Caso o "background" fique branco no chrome tente em outros navegadores, não entende a causa do problema ainda, mas estou procurando, "possivel atualização"
 
 ## Screenshots
 ![tela inicial](https://github.com/RodrigoSouzza/Game-Mata-Mosquito/assets/90626610/96473eb5-45ca-4093-9fb8-7c1037187e7c)
