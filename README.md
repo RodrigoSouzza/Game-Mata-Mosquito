@@ -52,4 +52,7 @@ Para utilizar abrir o arquivo "index.html", em seu navegador.
 * OBS: Caso o "background" fique branco no chrome tente em outros navegadores, não entende o a causa do problema ainda, mas estou procurando, "possivel atualização"
 
 ## Screenshots
-
+![tela inicial](https://github.com/RodrigoSouzza/Game-Mata-Mosquito/assets/90626610/96473eb5-45ca-4093-9fb8-7c1037187e7c)
+![jogo](https://github.com/RodrigoSouzza/Game-Mata-Mosquito/assets/90626610/2e93eeaf-a33b-4ace-b897-419380fccbf7)
+![vitoria](https://github.com/RodrigoSouzza/Game-Mata-Mosquito/assets/90626610/f4de278d-bc52-4fa3-a8c1-67eaf6cd0473)
+![game over](https://github.com/RodrigoSouzza/Game-Mata-Mosquito/assets/90626610/7719a849-22ae-4be8-9cbf-6aea3f89b71c)
